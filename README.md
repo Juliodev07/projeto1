@@ -1,7 +1,7 @@
 # projeto1
 
 
-comandos mysql  
+comandos mysql para produtos
 
 CREATE TABLE produtos(
 id int AUTO_IMCREMENT PRIMARY KEY,
